@@ -5,4 +5,5 @@ Create words and numbers that are part real and part made of shadows!
 
 All the letters and numbers are devided to different categories by their construction:
 
-![words of shadow - alphabet](https://github.com/hannak24/words-of-shadow/blob/main/alphabet.JPG?raw=true)
+
+![words of shadow - alphabet](https://github.com/hannak24/words-of-shadow/blob/main/karma.JPG?raw=true)
